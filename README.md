@@ -1,3 +1,4 @@
+
 # AI Kubernetes Troubleshooting Agent - High Level Design (HLD)
 
 ## Goal
@@ -14,6 +15,8 @@ Build an AI-powered Kubernetes troubleshooting platform that can:
 ---
 
 # High Level Architecture
+
+<img width="1672" height="941" alt="ChatGPT Image Aug 18, 2026, 06_26_27 PM" src="https://github.com/user-attachments/assets/4d6ae324-59ea-439c-aede-93dd771943c3" />
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
